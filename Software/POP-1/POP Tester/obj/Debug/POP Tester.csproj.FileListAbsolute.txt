@@ -1,0 +1,19 @@
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\bin\Debug\POP Tester.exe.config
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\bin\Debug\POP Tester.exe.manifest
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\bin\Debug\POP Tester.application
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\bin\Debug\POP Tester.exe
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\bin\Debug\POP Tester.pdb
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP_Tester.MainForm.resources
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP_Tester.Properties.Resources.resources
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.csproj.GenerateResource.Cache
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.exe.manifest
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.application
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.exe
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.pdb
+D:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.csprojResolveAssemblyReference.cache
+C:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.csprojAssemblyReference.cache
+C:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP_Tester.MainForm.resources
+C:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP_Tester.Properties.Resources.resources
+C:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.csproj.GenerateResource.cache
+C:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.exe
+C:\Latest Projects\Mirandilla-Cabugnason\POP Tester\POP Tester\POP Tester\obj\Debug\POP Tester.pdb
